@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center">  I'm Krishna   </h1>
+<h1 align="center">  I'm Krish</h1>
 <h3 align="center">B.Tech student passionate about IoT, AI, AR/VR, Robotics, and Web Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obsidiansovereign&label=Profile%20views&color=0e75b6&style=flat" alt="obsidiansovereign" /> </p>
